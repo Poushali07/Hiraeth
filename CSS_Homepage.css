@@ -1,0 +1,119 @@
+body
+{
+    text-align: center;
+    background-color: #333366;
+    align-items: center;
+}
+h1
+{
+   font-family: "Sofia", sans-serif;
+   font-size: 80px;
+   color: whitesmoke;
+}
+
+.button 
+{
+    border: none;
+    color: white;
+    padding: 100px 2px;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    display: block;
+    font-size: 35px;
+    margin: 10px 25px;
+    border-radius: 20px;  
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace
+
+  }
+  
+  .button1 
+  {
+    background-color:whitesmoke; 
+    color: black; 
+    border: 2px solid black;
+    padding: 14px 40px;
+    border-radius: 20px;
+    font-size: 25px;
+  }
+  
+  .button1:hover 
+  {
+    background-color: #D3D3D3;
+    color: black;
+  }
+  
+  .button2 
+  {
+    background-color: whitesmoke; 
+    color: black; 
+    border: 2px solid black;
+    padding: 14px 40px;
+    border-radius: 20px;
+    font-size: 25px;
+  }
+  
+  .button2:hover 
+  {
+    background-color:	#D3D3D3;
+    color: black;
+  }
+
+  .button3 
+  {
+    background-color: whitesmoke; 
+    color: black; 
+    border: 2px solid ;black;
+    padding: 14px 40px;
+    border-radius: 20px;  
+    font-size: 25px;
+}
+  
+  .button3:hover 
+  {
+    background-color: 	#D3D3D3;
+    color: black;
+  }
+
+  .button4 
+  {
+    background-color: whitesmoke; 
+    color: black; 
+    border: 2px solid black;
+    padding: 14px 40px;
+    border-radius: 20px;
+    font-size: 25px;
+  }
+  
+  .button4:hover 
+  {
+    background-color: #D3D3D3;
+    color: black;
+  }
+
+  .button5
+  {
+    background-color: whitesmoke; 
+    color: black; 
+    border: 2px solid black;
+    padding: 14px 40px;
+    border-radius: 20px;
+    font-size: 25px;
+  }
+  
+  .button5:hover 
+  {
+    background-color: #D3D3D3;
+    color: black;
+  }
+  a:link, a:visited {
+    background-color: lightblue;
+    color: black;
+    padding: 0.2px 0.2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
